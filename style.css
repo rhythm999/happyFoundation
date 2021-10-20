@@ -150,6 +150,10 @@ body{
     background-color: red;
     border-radius: 5rem  !important
 }
+.space{
+    width: 30vw;
+    height: 5vh;
+}
 .youtube,.instagram,.facebook,.twitter,.linkden{
     height: 40px;
     width: 40px;
@@ -171,15 +175,10 @@ body{
 .linkden{
     background-image: url("https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png");
 }
-.space{
-    width: 30vw;
-    height: 5vh;
-}
 .second{
     background-image: url("https://freedesignfile.com/upload/2017/01/Classroom-Smiling-learning-children-HD-picture.jpg");
     background-size: 100%;
 }
-/* https://freedesignfile.com/upload/2017/01/Classroom-Smiling-learning-children-HD-picture.jpg */
 .third{
     background-image: url("https://cdn1.photostockeditor.com/t/2411/person-smiling-at-the-camera-portrait-people.jpg");
     background-size: 100%;
